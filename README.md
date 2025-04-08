@@ -106,7 +106,7 @@ Congratulations. This browser is configured to use Tor.
 Clone this repository:
 
 ```bash
-git clone https://github.com/them1k/torRotate/torRotate.git
+git clone https://github.com/them1k/torRotate.git
 cd torRotate
 ```
 
